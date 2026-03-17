@@ -2,7 +2,7 @@
 
 O **NutriCalc** é uma aplicação web desenvolvida para facilitar o cálculo de parâmetros nutricionais (como o IMC ou taxas metabólicas), oferecendo uma interface simples, rápida e intuitiva para o usuário.
 
-> 🚀 **Veja o projeto no ar:** [Clique aqui para acessar o NutriCalc](https://diogo-abraga.github.io/Projeto-NutriCalc/)
+> 🚀 **Veja o projeto no ar:** [Clique aqui para acessar o NutriCalc](https://diogo-abraga.github.io/Projeto-NutriCalc//)
 
 ---
 
