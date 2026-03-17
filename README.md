@@ -35,4 +35,4 @@ Se você quiser baixar e testar o código na sua máquina:
    ```bash
    git clone [https://github.com/diogo-abraga/Projeto-NutriCalc.git]
    
-   Deploy -  (https://github.com/diogo-abraga/Projeto-NutriCalc.git)
+   Repositório -  (https://github.com/diogo-abraga/Projeto-NutriCalc.git)
