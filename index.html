@@ -17,19 +17,22 @@
         <form id="calc-form">
             <div class="input-group">
                 <label for="peso">Peso (kg):</label>
-                <input type="number" id="peso" placeholder="Ex: 75.5" step="0.1">
+                <input type="number" id="peso" placeholder="Digite seu Peso - Ex.: 80" step="0.1">
 
                 <label for="altura">Altura (cm):</label>
-                <input type="number" id="altura" placeholder="Ex: 170">
+                <input type="number" id="altura" placeholder="Digite sua Altura- Ex.: 170">
 
                 <label for="idade">Idade:</label>
-                <input type="number" id="idade" placeholder="Ex: 28">
+                <input type="number" id="idade" placeholder="Digite sua Idade- Ex.:28">
 
                 <label for="genero">Gênero:</label>
-                <select id="genero">
-                    <option>----Selecione----</option>
+                
+                <select id="genero" name="genero">
+                    <option value="">Selecione...</option>
                     <option value="masculino">Masculino</option>
                     <option value="feminino">Feminino</option>
+                    <option value="nao-binario">Não-binário</option>
+                    <option value="prefiro-nao-dizer">Prefiro não dizer</option>
                 </select>
             </div>
 
