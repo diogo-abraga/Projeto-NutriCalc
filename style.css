@@ -7,7 +7,7 @@ box-sizing:border-box;
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #e8f5e9;
-    background-image: url(./img/backgroud.png);
+    background-image: url(./img/mascote.png);
     display: flex;
     justify-content: center;
     align-items: center;
